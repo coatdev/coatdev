@@ -1,0 +1,217 @@
+long ll_row,ll_count
+datetime ldt_deltime
+decimal lc_realbudget,lc_jmlBudget
+string ls_kode_carabayar,ls_curr,ls_ktgr
+integer li_month,li_year
+
+if isadding or isediting then
+
+	
+//	dw_ext_budget_detail
+  	ll_row = dw_ext_budget_detail.rowcount()
+	FOR ll_count = 1 TO ll_row
+     	 dw_ext_budget_detail.scrolltorow(ll_count)
+
+ 		 li_month 		= dw_ext_budget_detail.getitemnumber(dw_ext_budget_detail.getrow(),'bln_budget_global')
+		 li_year  		= dw_ext_budget_detail.getitemnumber(dw_ext_budget_detail.getrow(),'thn_budget_global')
+		 ls_curr  		= dw_ext_budget_detail.getitemstring(dw_ext_budget_detail.getrow(),'kode_currency')
+		 ls_ktgr  		= dw_ext_budget_detail.getitemstring(dw_ext_budget_detail.getrow(),'kategori_stok')
+       lc_realbudget = dw_ext_budget_detail.getitemnumber(dw_ext_budget_detail.getrow(),'realisasi')
+       lc_jmlbudget  = dw_ext_budget_detail.getitemnumber(dw_ext_budget_detail.getrow(),'jumlah')
+       if lc_realbudget > lc_jmlbudget then
+	     	 messagebox('Validasi','pesanan melebihi budget !!. Simpan data gagal',Information!)
+			 return
+		 end if
+
+		 dw_all_budget_detail.retrieve(li_month,li_year,ls_curr,ls_ktgr)
+
+			ls_kode_carabayar = dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'kode_cara_bayar')
+		   if is_status_tagihan = '2' or is_status_tagihan = '7' then    //'INTERN'
+		      choose case ls_kode_carabayar
+				case '1'       // kredit
+					UPDATE tbl_budget_detail
+  				      SET realisasi_kr_int = :lc_realbudget
+					WHERE bln_budget_global = :li_month and &
+					      thn_budget_global = :li_year and &
+							kode_currency     = :ls_curr and &
+							kategori_stok     = :ls_ktgr;
+						
+				case '2'        // l/c usance
+					UPDATE tbl_budget_detail
+  				      SET realisasi_usance = :lc_realbudget
+					WHERE bln_budget_global = :li_month and &
+					      thn_budget_global = :li_year and &
+							kode_currency     = :ls_curr and &
+							kategori_stok     = :ls_ktgr;
+				case '3'        // l/c advance
+					UPDATE tbl_budget_detail
+  				      SET realisasi_advanced = :lc_realbudget
+					WHERE bln_budget_global = :li_month and &
+					      thn_budget_global = :li_year and &
+							kode_currency     = :ls_curr and &
+							kategori_stok     = :ls_ktgr;
+				case '4'        // l/c at-sight
+					UPDATE tbl_budget_detail
+  				      SET realisasi_at_sight = :lc_realbudget
+					WHERE bln_budget_global = :li_month and &
+					      thn_budget_global = :li_year and &
+							kode_currency     = :ls_curr and &
+							kategori_stok     = :ls_ktgr;
+				case else
+					UPDATE tbl_budget_detail
+  				      SET realisasi_tn_int = :lc_realbudget
+					WHERE bln_budget_global = :li_month and &
+					      thn_budget_global = :li_year and &
+							kode_currency     = :ls_curr and &
+							kategori_stok     = :ls_ktgr;
+				end choose
+		   else
+		      choose case ls_kode_carabayar
+				case '1'       // kredit
+					UPDATE tbl_budget_detail
+  				      SET realisasi_kredit = :lc_realbudget
+					WHERE bln_budget_global = :li_month and &
+					      thn_budget_global = :li_year and &
+							kode_currency     = :ls_curr and &
+							kategori_stok     = :ls_ktgr;
+				case '2'        // l/c usance
+					UPDATE tbl_budget_detail
+  				      SET realisasi_usance = :lc_realbudget
+					WHERE bln_budget_global = :li_month and &
+					      thn_budget_global = :li_year and &
+							kode_currency     = :ls_curr and &
+							kategori_stok     = :ls_ktgr;
+				case '3'        // l/c advance
+					UPDATE tbl_budget_detail
+  				      SET realisasi_advanced = :lc_realbudget
+					WHERE bln_budget_global = :li_month and &
+					      thn_budget_global = :li_year and &
+							kode_currency     = :ls_curr and &
+							kategori_stok     = :ls_ktgr;
+				case '4'        // l/c at-sight
+					UPDATE tbl_budget_detail
+  				      SET realisasi_at_sight = :lc_realbudget
+					WHERE bln_budget_global = :li_month and &
+					      thn_budget_global = :li_year and &
+							kode_currency     = :ls_curr and &
+							kategori_stok     = :ls_ktgr;
+				case else  // cash/tunai
+					UPDATE tbl_budget_detail
+  				      SET realisasi_tunai = :lc_realbudget
+					WHERE bln_budget_global = :li_month and &
+					      thn_budget_global = :li_year and &
+							kode_currency     = :ls_curr and &
+							kategori_stok     = :ls_ktgr;
+			end choose
+		end if
+	NEXT
+
+			if sqlca.sqlcode = 0 then
+				commit using sqlca;
+			else
+				rollback using sqlca;
+     			messagebox('Validasi','update budget gagal',Information!)
+			end if
+
+	ll_row = dw_ext_detail_spp.getrow()
+	is_nomer_sip = dw_ext_detail_spp.getitemstring(dw_ext_detail_spp.getrow(),'nomer_sip')
+// bila nomer_sip kosong dan baris > 1  --> jml baris harus ada minimal 1
+	if isnull(is_nomer_sip) and ll_row > 1 then
+      // hapus baris di ext detail dan detail
+      dw_detail_spp.deleterow(ll_row)
+      dw_ext_detail_spp.deleterow(ll_row)
+   end if
+
+   is_nomer_spp 		= dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'nomer_spp')
+	is_kode				= dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'kode')
+	is_kode_cara_bayar= dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'kode_cara_bayar')
+	is_keterangan		= dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'keterangan')
+	is_kode_nmakuntan = dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'kode_nmakuntan')
+	is_kode_pimpinan  = dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'kode_pimpinan')
+	is_kode_saksi		= dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'kode_saksi')
+	is_kode_pembelian	= dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'kode_pembelian')
+//	is_kode_unit		= dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'kode_unit')
+	is_kode_proyek		= dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'kode_proyek')
+	is_kode_sub_unit	= dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'kode_sub_unit')
+	is_username			= SQLCA.LogId  // dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'username')
+   idt_lastupdate		= string(today())  // dw_entry_header_spp.getitemdatetime(dw_entry_header_spp.getrow(),'lastupdate')
+	id_tanggal_beli	= dw_entry_header_spp.getitemdate(dw_entry_header_spp.getrow(),'tanggal_beli')
+	ic_disc_harga		= dw_entry_header_spp.getitemnumber(dw_entry_header_spp.getrow(),'disc_harga')
+	ic_value_ppn		= dw_entry_header_spp.getitemnumber(dw_entry_header_spp.getrow(),'value_ppn')
+	ic_value_pph		= dw_entry_header_spp.getitemnumber(dw_entry_header_spp.getrow(),'value_pph')
+	il_top				= dw_entry_header_spp.getitemnumber(dw_entry_header_spp.getrow(),'top')
+	is_nomer_po_intern= dw_entry_header_spp.getitemstring(dw_entry_header_spp.getrow(),'nomer_po_intern')
+
+ if isediting then
+	UPDATE tbl_header_spp
+	    SET nomer_spp 		= :is_nomer_spp,
+			  kode 				= :is_kode,
+			  kode_cara_bayar = :is_kode_cara_bayar,
+			  keterangan      = :is_keterangan,
+			  kode_nmakuntan  = :is_kode_nmakuntan,
+	        kode_pimpinan   = :is_kode_pimpinan,
+			  kode_saksi      = :is_kode_saksi,
+			  kode_pembelian  = :is_kode_pembelian,
+			  kode_unit       = :is_kode_unit,
+			  kode_proyek     = :is_kode_proyek,				
+			  kode_sub_unit   = :is_kode_sub_unit,
+   		  username        = :is_username,
+			  lastupdate      = :idt_lastupdate,
+			  tanggal_beli    = :id_tanggal_beli,
+			  disc_harga      = :ic_disc_harga,
+			  value_ppn       = :ic_value_ppn,
+			  value_pph       = :ic_value_pph,
+			  top             = :il_top,
+			  nomer_po_intern = :is_nomer_po_intern
+		WHERE nomer_spp = :is_nomer_spp; 
+
+ END IF
+
+ if isadding then
+ insert into tbl_header_spp 
+	       (tbl_header_spp.nomer_spp,
+			  tbl_header_spp.kode,
+			  tbl_header_spp.kode_cara_bayar,
+			  tbl_header_spp.keterangan,
+			  tbl_header_spp.kode_nmakuntan,
+	        tbl_header_spp.kode_pimpinan,
+			  tbl_header_spp.kode_saksi,
+			  tbl_header_spp.kode_pembelian,
+			  tbl_header_spp.kode_unit,
+			  tbl_header_spp.kode_proyek,
+			  tbl_header_spp.kode_sub_unit,
+   		  tbl_header_spp.username,
+			  tbl_header_spp.lastupdate,
+			  tbl_header_spp.tanggal_beli,
+			  tbl_header_spp.disc_harga,
+			  tbl_header_spp.value_ppn,tbl_header_spp.value_pph,
+			  tbl_header_spp.top,
+			  tbl_header_spp.nomer_po_intern)
+			  values(:is_nomer_spp,:is_kode,:is_kode_cara_bayar,:is_keterangan,:is_kode_nmakuntan,
+				 :is_kode_pimpinan,:is_kode_saksi,:is_kode_pembelian,:is_kode_unit,:is_kode_proyek,
+				 :is_kode_sub_unit,:is_username,:idt_lastupdate,:id_tanggal_beli,:ic_disc_harga,
+				 :ic_value_ppn,:ic_value_pph,:il_top,:is_nomer_po_intern);
+
+	end if	
+
+		if sqlca.sqlcode = 0 then
+      	if dw_detail_spp.update() > 0 then
+				if dw_subdetail_spp.update() > 0 then
+					commit using sqlca;
+				else
+					rollback using sqlca;
+      			messagebox('Validasi','simpan data gagal',Information!)
+				end if
+			else
+				rollback using sqlca;
+	   		messagebox('Validasi','simpan data gagal',Information!)
+  			end if
+		else
+			rollback using sqlca;
+			messagebox('Validasi','simpan data gagal',Information!)
+		end if	
+
+	isadding = false
+	isediting = false
+
+end if

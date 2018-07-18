@@ -1,0 +1,21 @@
+string	  ls_KeyDownType
+
+If row = 0 then Return
+
+If Keydown(KeyShift!) then
+//	wf_Shift_Highlight(row)
+
+ElseIf this.IsSelected(row) Then
+	il_LastClickedRow = row
+	ib_action_on_buttonup = true
+	
+ElseIf Keydown(KeyControl!) then
+	il_LastClickedRow = row
+	this.SelectRow(row,TRUE)
+	
+Else
+	il_LastClickedRow = row
+	this.SelectRow(0,FALSE)
+	this.SelectRow(row,TRUE)
+	
+End If 

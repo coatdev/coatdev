@@ -1,0 +1,4 @@
+Sebelum melanjutkan proses ini, pastikan dulu semua transaksi
+sudah masuk dengan benar, karena data periode transaksi yang 
+sudah ditutup tidak dapat di perbaharui lagi.
+(Tidak bisa lagi melakukan penghapusan/perubahan/penambahan)

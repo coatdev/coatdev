@@ -1,0 +1,10 @@
+w_lap_po.dw_cetak_rekap_po.SetTransObject(sqlca)
+w_lap_po.dw_rpt_rekap_po.SetTransObject(sqlca)
+w_lap_po.dw_rpt_rekap_po1.SetTransObject(sqlca)
+w_lap_po.dw_cetak_rekap_po.visible = true
+w_lap_po.dw_cetak_rekap_po.enabled = true
+w_lap_po.dw_cetak_rekap_po.InsertRow(0)
+w_lap_po.dw_cetak_rekap_po.SetItem(w_lap_po.dw_cetak_rekap_po.getRow(),'Tanggal_Awal',Today())
+w_lap_po.dw_cetak_rekap_po.SetItem(w_lap_po.dw_cetak_rekap_po.getRow(),'Tanggal_Akhir',Date(year(today()),month(today()),day(toDay())+7))
+w_lap_po.dw_cetak_rekap_po.SetItem(w_lap_po.dw_cetak_rekap_po.getRow(),'Berdasar_Tanggal','P')
+w_lap_po.dw_cetak_rekap_po.SetItem(w_lap_po.dw_cetak_rekap_po.getRow(),'Media',1)

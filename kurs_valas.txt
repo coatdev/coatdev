@@ -1,0 +1,6 @@
+select x.kode_mata_uang, x.kurs_tengah_bi, x.kurs_mkeu
+from kurs_sakti x,
+(select max(tanggal) tanggal, t.kode_mata_uang from kurs_sakti t
+group by t.kode_mata_uang) y
+where x.kode_mata_uang = y.kode_mata_uang
+ and x.tanggal = y.tanggal

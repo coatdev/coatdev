@@ -1,0 +1,2084 @@
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 23-NOV-01 09:30:49
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 26-NOV-01 09:17:11
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 27-NOV-01 10:53:21
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 29-NOV-01 11:09:55
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 29-NOV-01 13:14:23
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 29-NOV-01 14:36:54
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 01-DEC-01 09:20:25
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 01-DEC-01 11:48:59
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 03-DEC-01 14:17:53
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 03-DEC-01 15:21:50
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 05-DEC-01 10:06:21
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 05-DEC-01 12:59:38
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 05-DEC-01 13:42:54
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 06-DEC-01 08:24:11
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 07-DEC-01 09:21:26
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 10-DEC-01 10:19:16
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 11-DEC-01 08:59:41
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 11-DEC-01 09:38:46
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 11-DEC-01 10:29:31
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 11-DEC-01 13:27:04
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 11-DEC-01 14:21:44
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 12-DEC-01 08:52:51
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 12-DEC-01 14:35:50
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 14-DEC-01 08:22:09
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 02-JAN-02 09:08:45
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 03-JAN-02 11:07:41
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 04-JAN-02 11:14:04
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 05-JAN-02 07:53:39
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 07-JAN-02 09:28:28
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 08-JAN-02 07:57:35
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 08-JAN-02 08:28:23
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 08-JAN-02 15:37:35
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 09-JAN-02 10:55:16
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 10-JAN-02 12:17:05
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 10-JAN-02 15:15:29
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 10-JAN-02 15:47:13
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 11-JAN-02 07:32:11
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 11-JAN-02 15:16:50
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 14-JAN-02 15:16:34
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 15-JAN-02 09:03:59
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 15-JAN-02 10:46:50
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 15-JAN-02 14:03:35
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 15-JAN-02 14:36:50
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 15-JAN-02 15:15:38
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 16-JAN-02 08:21:49
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 17-JAN-02 09:23:50
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 17-JAN-02 11:01:25
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 17-JAN-02 14:31:08
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 18-JAN-02 08:47:41
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 18-JAN-02 10:52:07
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Keyword-Value binding operation error
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 24-JAN-02 09:13:50
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 26-JAN-02 11:41:16
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 30-JAN-02 07:15:03
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 30-JAN-02 07:15:11
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 30-JAN-02 07:15:33
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 26-APR-02 15:53:55
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 29-APR-02 10:21:25
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 01-MAY-02 13:39:01
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 01-MAY-02 13:39:54
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 01-MAY-02 13:41:19
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 10-MAY-02 13:26:58
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 18-MAY-02 09:11:44
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12547, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 13-JUN-02 16:19:26
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12547
+    TNS-12547: TNS:lost contact
+    ns secondary err code: 12560
+    nt main err code: 517
+    TNS-00517: Lost contact
+    nt secondary err code: 54
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 20-JUN-02 09:36:15
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 49
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 20-JUN-02 09:36:31
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 49
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 20-JUN-02 09:36:38
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 49
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 20-JUN-02 09:37:20
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 49
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 20-JUN-02 09:37:49
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 49
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 20-JUN-02 09:37:52
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 49
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 20-JUN-02 09:49:37
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 49
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 20-JUN-02 09:49:46
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 49
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 20-JUN-02 09:52:03
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 49
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 20-JUN-02 09:53:43
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 49
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=pura_tss)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\PROGRAM FILES\SYBASE8\POWERBUILDER 8.0\PB80.EXE)(HOST=MOHWAN)(USER=mohwan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 20-JUN-02 10:30:55
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 21-JUN-02 15:45:51
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 21-JUN-02 15:46:57
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 21-JUN-02 15:47:33
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 21-JUN-02 15:49:13
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 21-JUN-02 15:53:19
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 21-JUN-02 15:53:49
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 21-JUN-02 15:54:22
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 21-JUN-02 15:54:53
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 22-JUN-02 10:05:56
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 22-JUN-02 12:03:48
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 22-JUN-02 12:34:44
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 22-JUN-02 12:36:47
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 22-JUN-02 12:45:54
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 22-JUN-02 12:46:24
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 25-JUN-02 07:56:45
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 29-JUN-02 08:07:37
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 29-JUN-02 08:08:03
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 01-JUL-02 09:43:15
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 01-JUL-02 09:43:52
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 08-AUG-02 17:20:06
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 08-AUG-02 18:10:14
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12547, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 08-AUG-02 18:21:58
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12547
+    TNS-12547: TNS:lost contact
+    ns secondary err code: 12560
+    nt main err code: 517
+    TNS-00517: Lost contact
+    nt secondary err code: 54
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 08-AUG-02 18:36:52
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 27-AUG-02 16:34:26
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 27-AUG-02 16:34:55
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 27-AUG-02 16:35:44
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 28-AUG-02 16:33:03
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 28-AUG-02 16:33:09
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 29-AUG-02 15:17:24
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.6.102)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=pura)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 8.0\pb80.exe)(HOST=MOHWAN02)(USER=Admin))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 06-SEP-02 16:24:35
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 60
+    nt OS err code: 0

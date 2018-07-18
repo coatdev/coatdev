@@ -1,0 +1,50 @@
+if isediting = true then
+		insert into tbl_kiriman_header
+		(TBL_KIRIMAN_HEADER.NOMER_SP_KIRIM,   
+       TBL_KIRIMAN_HEADER.TANGGAL_KIRIM,   
+       TBL_KIRIMAN_HEADER.KODE_PERSONAL,   
+       TBL_KIRIMAN_HEADER.NOMER_KENDARAAN,   
+       TBL_KIRIMAN_HEADER.NOMER_FAKTUR,   
+       TBL_KIRIMAN_HEADER.TANGGAL_SP_DITERIMA)
+		values
+		 (:mnomer_sp_kirim, :mtanggal_kirim, :mkode_personal, :mnomer_kendaraan, :mnomer_faktur,
+			 :mtanggal_sp_diterima);
+		commit using (sqlca);
+	   bariske=1
+		jumlahbaris =0	 
+		jumlahbaris = dw_ext_kiriman_detail.rowcount() 
+		mnomer_sp_kirim=dw_kiriman_header.getitemstring(1, 'nomer_sp_kirim')
+	
+		dw_kiriman_detail.visible = true
+		dw_kiriman_detail.enabled = true
+		dw_kiriman_detail.retrieve(mnomer_sp_kirim)
+//		messagebox('cek1',mnomer_sp_kirim,information!)
+		delete from tbl_kiriman_detail where (trim(nomer_sp_kirim) = trim(:mnomer_sp_kirim));
+//		dw_kiriman_detail.enable = true
+		dw_kiriman_detail.retrieve(mnomer_sp_kirim)
+//		messagebox('cek2',mnomer_sp_kirim,information!)
+		if jumlahbaris > 0 then
+			for bariske = 1 to jumlahbaris
+				
+				mnomer_po_intern=dw_ext_kiriman_detail.getitemstring(bariske, 'nomer_po_intern')
+				mkode_barang = dw_ext_kiriman_detail.getitemstring(bariske, 'kode_barang')
+				mqty_kirim   = dw_ext_kiriman_detail.getitemdecimal(bariske, 'qty_kirim')
+				mtahap_kirim = dw_ext_kiriman_detail.getitemdate(bariske, 'tahap_kirim')
+				mnomer_pp    = dw_ext_kiriman_detail.getitemstring(bariske, 'nomer_pp')
+				mketerangan  = dw_ext_kiriman_detail.getitemstring(bariske, 'keterangan')
+				
+				insert into tbl_kiriman_detail
+					(tbl_kiriman_detail.nomer_sp_kirim, 
+					 tbl_kiriman_detail.nomer_po_intern, tbl_kiriman_detail.kode_barang,
+					 tbl_kiriman_detail.qty_kirim, tbl_kiriman_detail.tahap_kirim,
+					 tbl_kiriman_detail.nomer_pp, tbl_kiriman_detail.keterangan)
+				values
+					(:mnomer_sp_kirim, :mnomer_po_intern, :mkode_barang, :mqty_kirim, :mtahap_kirim,
+					 :mnomer_pp, :mketerangan);
+			next
+			commit using (sqlca);
+		end if
+		 
+	else
+	
+	end if

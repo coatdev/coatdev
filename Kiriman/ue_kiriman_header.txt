@@ -1,0 +1,78 @@
+string xno_sp
+
+if dw_kiriman_header.getcolumnname()='nomer_sp_kirim' then
+	dw_kiriman_header.accepttext()
+	mnomer_sp_kirim = dw_kiriman_header.getitemstring(dw_kiriman_header.getrow(), 'nomer_sp_kirim')
+				
+   select nomer_sp_kirim into :xno_sp from tbl_kiriman_header where nomer_sp_kirim = :mnomer_sp_kirim;
+	if SQLCA.SQLCODE = 100 THEN // not found
+		if isediting = true then
+			messagebox('Validasi',' Data belum ada ...!')
+			cb_none.setfocus()
+			return
+		end if
+	else
+		if isadding = true then
+			messagebox('Validasi',' Nomer sudah terpakai...!')
+			cb_none.setfocus()
+			return
+		else
+			// waktu edit, bila data ditemukan maka data ditampilkan
+			if not isnull (mnomer_sp_kirim) then
+				mnomer_sp_kirim =trim(mnomer_sp_kirim)+'%'
+				dw_sp_kirim.retrieve(mnomer_sp_kirim)
+				dw_sp_kirim.visible = true 
+				dw_sp_kirim.enabled = true 
+				dw_sp_kirim.setfocus()
+				
+							
+			
+			end if
+		end if
+	end if
+	
+end if	
+
+if dw_kiriman_header.getcolumnname() = 'tanggal_kirim' then
+	dw_kiriman_header.accepttext()
+	mtanggal_kirim = dw_kiriman_header.getitemdatetime(dw_kiriman_header.getrow(),'tanggal_kirim')
+end if
+
+if dw_kiriman_header.getcolumnname()='kode_personal' then
+	dw_kiriman_header.accepttext()
+	mkode_personal = dw_kiriman_header.getitemstring(dw_kiriman_header.getrow(), 'kode_personal')
+	if isnull(mkode_personal) then 
+		mkode_personal='%'
+	else
+		mkode_personal =trim(mkode_personal)+'%'
+	end if
+	dw_brows_personal.setfocus()
+	dw_brows_personal.retrieve(mkode_personal)
+	if dw_brows_personal.getrow()=0 then
+		messagebox('Validasi', 'data Personal tidak ada ...',Information!)
+		cb_none.setfocus()
+	else
+		dw_brows_personal.enabled = true
+		dw_brows_personal.visible = true
+		dw_brows_personal.setfocus()
+	end if
+//	messagebox('kode_personal',mkode_personal)
+end if	
+
+if dw_kiriman_header.getcolumnname()='nomer_kendaraan' then
+	dw_kiriman_header.accepttext()
+	mnomer_kendaraan = dw_kiriman_header.getitemstring(dw_kiriman_header.getrow(), 'nomer_kendaraan')
+end if	
+if dw_kiriman_header.getcolumnname()='alamat_kirim1' then
+	dw_kiriman_header.accepttext()
+	malamat_kirim1 = dw_kiriman_header.getitemstring(dw_kiriman_header.getrow(), 'alamat_kirim1')
+end if	
+if dw_kiriman_header.getcolumnname()='alamat_kirim2' then
+	dw_kiriman_header.accepttext()
+	malamat_kirim2 = dw_kiriman_header.getitemstring(dw_kiriman_header.getrow(), 'alamat_kirim2')
+end if	
+
+send(handle(this), 256, 9, long(0,0))
+return 0
+
+

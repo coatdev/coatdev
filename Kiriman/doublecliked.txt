@@ -1,0 +1,30 @@
+string xkodebrg, xnama, xukuran, xcari, xcek
+int baris, jumlahbaris, bariske
+
+
+xkodebrg = dw_brow_po_detail.getitemstring(dw_brow_po_detail.getrow(),'kode_barang')
+xnama    = dw_brow_po_detail.getitemstring(dw_brow_po_detail.getrow(),'nama_barang')
+xukuran  = dw_brow_po_detail.getitemstring(dw_brow_po_detail.getrow(),'ukuran')
+
+jumlahbaris = dw_kiriman_detail1.rowcount()
+for bariske = 1 to jumlahbaris 
+	xcek = dw_kiriman_detail1.getitemstring(dw_kiriman_detail1.getrow(),'kode_barang')
+	if xcek = xkodebrg then
+		messagebox('Validasi','Item PO sudah dientri....',Information!)
+		return
+	end if
+next
+
+if jumlahbaris = 1 then
+	xcek = dw_kiriman_detail1.getitemstring(dw_kiriman_detail1.getrow(),'kode_barang')
+	if isnull(xcek) then
+		dw_kiriman_detail1.reset()
+	end if
+	baris = dw_kiriman_detail1.insertrow(0)
+else
+	baris = dw_kiriman_detail1.insertrow(0)
+end if
+dw_kiriman_detail1.scrolltorow(baris)
+dw_kiriman_detail1.setitem(baris,'kode_barang',xkodebrg)
+dw_kiriman_detail1.setitem(baris,'nama_barang',xnama)
+dw_kiriman_detail1.setitem(baris,'ukuran',xukuran)

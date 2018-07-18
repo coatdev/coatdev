@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "geturl10.pbt";
+@end;
+DefaultTarget "geturl10.pbt";
+DefaultRemoteTarget "geturl10.pbt";

@@ -1,0 +1,67 @@
+int baris, jumlahbaris, bariske
+//messagebox('no_po 2',mnomer_po_intern+' mkode_personal ='+mkode_personal)
+if isadding = true or isediting = true then
+	if isadding = true then
+		insert into tbl_kiriman_header 
+			(tbl_kiriman_header.nomer_sp_kirim, tbl_kiriman_header.tanggal_kirim,
+			 tbl_kiriman_header.nomer_po_intern, tbl_kiriman_header.kode_personal,
+			 tbl_kiriman_header.nomer_kendaraan)
+		values
+		   (:mnomer_sp_kirim, :mtanggal_kirim, :mnomer_po_intern, :mkode_personal,
+			 :mnomer_kendaraan);
+			 
+		jumlahbaris = dw_kiriman_detail1.rowcount()
+//		messagebox('no_po 2',mnomer_po_intern)
+		if jumlahbaris > 0 then
+			for bariske = 1 to jumlahbaris
+				mkode_barang = dw_kiriman_detail1.getitemstring(bariske, 'kode_barang')
+				mqty_kirim   = dw_kiriman_detail1.getitemdecimal(bariske, 'qty_kirim')
+				mtahap_kirim = dw_kiriman_detail1.getitemdate(bariske, 'tahap_kirim')
+				mnomer_pp    = dw_kiriman_detail1.getitemstring(bariske, 'nomer_pp')
+				mketerangan  = dw_kiriman_detail1.getitemstring(bariske, 'keterangan')
+				
+				insert into tbl_kiriman_detail
+					(tbl_kiriman_detail.nomer_sp_kirim, tbl_kiriman_detail.kode_barang,
+					 tbl_kiriman_detail.qty_kirim, tbl_kiriman_detail.tahap_kirim,
+					 tbl_kiriman_detail.nomer_pp, tbl_kiriman_detail.keterangan)
+				values
+					(:mnomer_sp_kirim, :mkode_barang, :mqty_kirim, :mtahap_kirim,
+					 :mnomer_pp, :mketerangan);
+			next
+		end if
+	else
+	
+	end if
+	
+	dw_kiriman_po.enabled = false
+	dw_kiriman_po.reset()
+	dw_kiriman_po.insertrow(0)
+	isadding = false
+	isediting = false
+
+   dw_kiriman_header.enabled = false
+	dw_kiriman_header.reset()
+	dw_kiriman_header.insertrow(0)
+	dw_kiriman_header.object.t_pengirim.text = ''
+	
+	dw_brows_po.enabled = false
+	dw_brows_po.visible = false
+	
+	dw_brows_personal.enabled = false
+	dw_brows_personal.visible = false
+	
+	dw_brow_po_detail.enabled = false
+	dw_brow_po_detail.reset()
+	dw_brow_po_detail.insertrow(0)
+	
+   dw_kiriman_detail1.enabled = false
+	dw_kiriman_detail1.reset()
+	dw_kiriman_detail1.insertrow(0)
+	cb_add.enabled = true
+	cb_edit.enabled = true
+	cb_preview.text = 'Pre&view'
+	cb_delete.text  = '&Delete'
+	cb_close.enabled= true
+	cb_none.setfocus()
+	return
+end if

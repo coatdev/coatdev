@@ -1,0 +1,31 @@
+date mawal, makhir
+int mmedia
+string mpiltgl, mkoe
+
+mawal  = w_lap_po.dw_cetak_rekap_po.getitemdate(w_lap_po.dw_cetak_rekap_po.getrow(),'Tanggal_awal')
+makhir = w_lap_po.dw_cetak_rekap_po.getitemdate(w_lap_po.dw_cetak_rekap_po.getrow(),'Tanggal_Akhir')
+mmedia = w_lap_po.dw_cetak_rekap_po.getitemnumber(w_lap_po.dw_cetak_rekap_po.getrow(),'Media')
+mpiltgl   = w_lap_po.dw_cetak_rekap_po.getitemString(w_lap_po.dw_cetak_rekap_po.getrow(),'Berdasar_Tanggal')
+mkoe = '*'
+messageBox('',string(mawal)+string(makhir)+mkoe+mpiltgl)
+declare Rekap_po procedure for SP_REKAP_PO(:mawal, :makhir, :mkoe, :mkoe, :mkoe, :mpiltgl) using sqlca;
+
+execute Rekap_po;
+if sqlca.sqlcode < 0 then
+	MessageBox("Procedure execute error", string(sqlca.sqlcode) + ": " + string(sqlca.sqldbcode) + ": " + sqlca.sqlerrtext)
+	return
+else
+	MessageBox("Procedure Result", sqlca.sqldbcode)
+end if
+
+if mmedia = 1 then
+	dw_rpt_rekap_po1.visible = true
+	dw_rpt_rekap_po1.retrieve()
+end if
+
+if mmedia = 2 then
+	OpenWithParm(w_printer,dw_rpt_rekap_po1)
+end if
+
+
+close Rekap_po;

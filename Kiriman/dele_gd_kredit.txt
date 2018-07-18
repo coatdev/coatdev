@@ -1,0 +1,26 @@
+//----------start delete Transaksi Gudang Kredit
+				dw_tran_gudang_kredit.reset()
+				dw_tran_gudang_kredit.retrieve(mnomer_sp_kirim+'%')
+				baris_stock=dw_tran_gudang_kredit.rowcount()				
+				if baris_stock>0 then
+					for bariske_stock = 1 to baris_stock
+						dw_tran_gudang_kredit.scrolltorow(bariske_stock)
+						fno_dok_debet=dw_tran_gudang_kredit.getitemstring(bariske_stock,'no_trans_asal')
+						fqty=dw_tran_gudang_kredit.getitemdecimal(bariske_stock,'qty')										
+						SELECT gudang_transaksi_debet.terpakai
+						INTO :fterpakai
+						FROM gudang_transaksi_debet
+						Where gudang_transaksi_debet.no_dok_debet = :fno_dok_debet;
+						fterpakai=fterpakai - fqty			
+						
+						update gudang_transaksi_debet
+			 			set gudang_transaksi_debet.terpakai = fterpakai
+						Where gudang_transaksi_debet.no_dok_debet = :fno_dok_debet;												
+					next
+					baris_stock=dw_tran_gudang_kredit.rowcount()
+					for bariske_stock = 1 to baris_stock
+						dw_tran_gudang_kredit.scrolltorow(bariske_stock)
+						dw_tran_gudang_kredit.deleterow(0)
+					next
+			   end if
+				//--------end delete Transaksi Gudang Kredit

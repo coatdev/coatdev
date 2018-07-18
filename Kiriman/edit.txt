@@ -1,0 +1,21 @@
+//dw_kiriman_po.enabled = true
+dw_kiriman_po.reset()
+dw_kiriman_po.insertrow(0)
+isadding = false
+isediting = true
+
+dw_kiriman_header.enabled = true
+dw_kiriman_header.reset()
+dw_kiriman_header.insertrow(0)
+dw_kiriman_header.object.t_pengirim.text = ''
+dw_kiriman_header.setitem(dw_kiriman_header.getrow(),'tanggal_kirim',today())
+
+dw_kiriman_detail1.enabled = true
+dw_kiriman_detail1.reset()
+dw_kiriman_detail1.insertrow(0)
+cb_add.enabled = false
+cb_edit.enabled = false
+cb_preview.text = '&Save'
+cb_delete.text  = '&Cancel'
+cb_close.enabled= false
+dw_kiriman_header.setfocus()
